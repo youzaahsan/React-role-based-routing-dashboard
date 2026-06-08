@@ -1,0 +1,6 @@
+{
+  "name": "Role-Based Access Control Dashboard",
+  "description": "A complete, modern dashboard application with role-based routing and access control for Admin, Seller, and Employee portals built with React Router DOM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
